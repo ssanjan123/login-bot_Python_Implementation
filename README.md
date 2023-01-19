@@ -1,5 +1,7 @@
 # Auto-Login to Email Service
 
+<img src="https://user-images.githubusercontent.com/84153519/213361707-4c584962-e260-4b36-a1b0-afb74b3f11f5.png" width="500" height="300">
+
 This project is an implementation of an automatic login feature for an email service of choice on Windows startup. The current version is only compatible with webmail services.
 
 ## Getting Started
@@ -18,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository to your local machine.
 
-git clone https://github.com/ssanjan123/login-bot_Python_Implementation
+   git clone https://github.com/ssanjan123/login-bot_Python_Implementation
 
 
 2. Open the project in your preferred IDE.
