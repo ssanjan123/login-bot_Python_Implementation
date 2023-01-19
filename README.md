@@ -1,6 +1,6 @@
 # Auto-Login to Email Service
 
-<img src="https://user-images.githubusercontent.com/84153519/213361707-4c584962-e260-4b36-a1b0-afb74b3f11f5.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/84153519/213361707-4c584962-e260-4b36-a1b0-afb74b3f11f5.png" width="400" height="300">
 
 This project is an implementation of an automatic login feature for an email service of choice on Windows startup. The current version is only compatible with webmail services.
 
