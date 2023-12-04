@@ -1,4 +1,4 @@
-# Auto-Login to Email Service
+# Auto-Login to Email Service - Co-op
 
 <img src="https://user-images.githubusercontent.com/84153519/213361707-4c584962-e260-4b36-a1b0-afb74b3f11f5.png" width="400" height="300">
 
